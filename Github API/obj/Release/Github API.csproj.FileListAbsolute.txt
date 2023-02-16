@@ -1,0 +1,14 @@
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.csproj.AssemblyReference.cache
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.csproj.SuggestedBindingRedirects.cache
+E:\Data\Projects\Github API\Github API\obj\Release\Github_API.Properties.Resources.resources
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.csproj.GenerateResource.cache
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.csproj.CoreCompileInputs.cache
+E:\Data\Projects\Github API\Github API\obj\Release\BMO_Admin.Main.resources
+E:\Data\Projects\Github API\Github API\bin\Release\Github API.exe.config
+E:\Data\Projects\Github API\Github API\bin\Release\Github API.exe
+E:\Data\Projects\Github API\Github API\bin\Release\Github API.pdb
+E:\Data\Projects\Github API\Github API\bin\Release\Octokit.dll
+E:\Data\Projects\Github API\Github API\bin\Release\Octokit.xml
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.csproj.CopyComplete
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.exe
+E:\Data\Projects\Github API\Github API\obj\Release\Github API.pdb
